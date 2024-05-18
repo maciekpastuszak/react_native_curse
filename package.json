@@ -1,6 +1,6 @@
 {
   "name": "react_native_curse",
-  "main": "expo-router/entry",
+    "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
